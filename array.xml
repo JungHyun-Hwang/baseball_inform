@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baseball">
+        <item>===선택===</item>
+        <item>KIA 타이거즈</item>
+        <item>KT 위즈</item>
+        <item>LG 트윈스</item>
+        <item>NC 디아노스</item>
+        <item>SK 와이번스</item>
+        <item>넥센 히어로즈</item>
+        <item>두산 베어스</item>
+        <item>롯데 자이언츠</item>
+        <item>삼성 라이온즈</item>
+        <item>한화 이글스</item>
+
+
+    </string-array>
+
+    <string-array name="pos">
+        <item>==선택==</item>
+        <item>팀</item>
+        <item>투수</item>
+        <item>포수</item>
+        <item>내야수</item>
+        <item>외야수</item>
+
+
+    </string-array>
+
+</resources>
